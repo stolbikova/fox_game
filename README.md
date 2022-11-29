@@ -20,12 +20,12 @@ git clone https://github.com/stolbikova/fox_game.git
 
 #### Install dependencies using Yarn or NPM:
 
-# using yarn
+#### using yarn
 ```bash
 yarn install
 ```
 
-# using npm
+#### using npm
 ```bash
 npm install
 ```
