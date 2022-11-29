@@ -18,7 +18,7 @@ git clone https://github.com/stolbikova/fox_game.git
 
 <br>
 
-Install dependencies using Yarn or NPM:
+#### Install dependencies using Yarn or NPM:
 
 # using yarn
 ```bash
@@ -29,7 +29,7 @@ yarn install
 ```bash
 npm install
 ```
-To run your web application, you need to run following command :
+#### To run your web application, you need to run following command :
 
 ```bash
 yarn start
@@ -39,7 +39,7 @@ yarn start
 
 ## Lint : Development
 
-To lint application source code using ESLint via this command :
+#### To lint application source code using ESLint via this command :
 
 ```bash
 yarn lint
@@ -51,7 +51,7 @@ yarn lint
 
 Distribution files output will be generated in `dist/` directory by default.
 
-To build the production ready files for distribution, use the following command :
+#### To build the production ready files for distribution, use the following command :
 
 ```bash
 yarn build
