@@ -13,24 +13,22 @@ Browser game. Find the fox game.
 Clone the repository :
 
 ```bash
-git clone 
+git clone https://github.com/stolbikova/fox_game.git
 ```
 
 <br>
 
 Install dependencies using Yarn or NPM:
 
-# or using yarn
+# using yarn
+```bash
 yarn install
-
-# or using npm
-npm install
 ```
 
-<br />
-
-## Start 
-
+# using npm
+```bash
+npm install
+```
 To run your web application, you need to run following command :
 
 ```bash
